@@ -1,0 +1,25 @@
+2026-10-23 16:08:49 - Submitting Tuesday 2026-10-27
+2026-10-23 16:11:26 - Submitting Tuesday 2026-10-27
+2026-10-23 16:11:56 - ERROR Tuesday: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_role("link", name="Time and Absences")
+    - waiting for "https://idcs-c919f249f7d04a8bb08189683ace6233.identity.oraclecloud.com/ui/v1/signin" navigation to finish...
+    - navigated to "https://idcs-c919f249f7d04a8bb08189683ace6233.identity.oraclecloud.com/ui/v1/signin"
+    - waiting for "https://idcs-67f5216a008d46f0a718a0be0b33063a.identity.oraclecloud.com/fed/v1/idp/sso?SAMLRequest=hVPRbpswFP0V5D4DNlBCrJAqXZYtUrNkDZmqvRnbJNbAZtiEZl8%2FkwypnZT0zbLOPfecc%2B%2BdPLxWpXPkjRZKpgB5EDhcUsW…" navigation to finish...
+    - navigated to "https://idcs-67f5216a008d46f0a718a0be0b33063a.identity.oraclecloud.com/sso/v1/user/login"
+    - waiting for "https://idcs-67f5216a008d46f0a718a0be0b33063a.identity.oraclecloud.com/fed/v1/user/request/login" navigation to finish...
+    - navigated to "https://login.microsoftonline.com/cfab0009-84b7-4397-a0f8-f77cdf1579c1/saml2?SAMLRequest=hVNbb9owFP4rkfvsxLmQBItQsaJqTO1AgyK0N8d2wJJjM9sp5d%2FXgUXqJpW%2BWUffOee7HE%2Fu31oZvHJjhVYViEMEAq6oZkLtK%2FCyeY…"
+
+2026-10-23 16:11:56 - Submitting Thursday 2026-10-29
+2026-10-23 16:14:32 - Submitting Tuesday 2026-10-27
+2026-10-23 16:22:59 - Submitting Tuesday 2026-10-27
+2026-10-23 16:23:33 - Successfully submitted Tuesday 2026-10-27
+2026-10-23 16:23:33 - Submitting Thursday 2026-10-29
+2026-10-23 16:24:01 - Successfully submitted Thursday 2026-10-29
+2026-10-23 16:24:01 - Finished
+2026-10-23 16:25:06 - Submitting Tuesday 2026-10-27
+2026-10-23 16:25:37 - Successfully submitted Tuesday 2026-10-27
+2026-10-23 16:25:37 - Submitting Thursday 2026-10-29
+2026-10-23 16:26:06 - Successfully submitted Thursday 2026-10-29
+2026-10-23 16:26:06 - Finished
+2026-10-23 16:28:33 - Submitting Tuesday 2026-10-27
